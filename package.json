@@ -1,0 +1,11 @@
+{
+  "name": "willowweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "firefox ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
