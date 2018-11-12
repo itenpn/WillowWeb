@@ -17,5 +17,5 @@ Use pull requests to complete the following for my code:
 
 - Give more information about the willow tree? What cool stuff can you find online?  
 - Redesign the website. The font is the system default. There is no color! CSS anyone?
-- Having all this information on a single page is too much. Can we make different pages?
-- Create a navigation bar to link each of the pages. Can it fit the theme of the redesign?
+- Having all this information on a single page is too much. Can we make different pages? Create a navigation bar to link each of the pages. Can it fit the theme of the redesign?  
+- At the bottom, users might want to see a wide variety of willow trees? Can you change a picture at the bottom to be a random tree every 30 seconds?
