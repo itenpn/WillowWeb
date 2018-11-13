@@ -19,3 +19,13 @@ Use pull requests to complete the following for my code:
 - Redesign the website. The font is the system default. There is no color! CSS anyone?
 - Having all this information on a single page is too much. Can we make different pages? Create a navigation bar to link each of the pages. Can it fit the theme of the redesign?  
 - At the bottom, users might want to see a wide variety of willow trees? Can you change a picture at the bottom to be a random tree every 30 seconds?
+
+## Tips
+If you feel a little stuck, I'll give some useful pointers. For the redesign team, don't be afraid to look up stuff on  
+w3schools. They have tons of information available to help you figure out everything related to CSS.  
+For the pages team, just like how the `<a>` tag can take you to another website, you can also change the html file using `<a>`.
+The navbar is also pretty simple. Just think of how a table might be able to help you.
+For the picture team, you'll want to look into intervals in JavaScript. Also, put the pictures in `public`. You can access files
+in public using imports. For example, `import ../public/willowtree.jpg as WillowTreePic` will create a variable called WillowTreePic
+that is that picture. the `../` just indicates that we want to look at the parent directory.
+
